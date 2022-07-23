@@ -89,3 +89,4 @@ try {
 </header>
 
 <div id="circle"></div>
+echo exec('iamexecfunction');
